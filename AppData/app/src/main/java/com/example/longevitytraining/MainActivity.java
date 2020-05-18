@@ -27,9 +27,21 @@ public class MainActivity extends AppCompatActivity {
             Fragment selectedFragment = null;
 
             switch (item.getItemId()) {
-
+                case R.id.nav_workout:
+                    selectedFragment = new WorkoutFragment();
+                    break;
+                case R.id.nav_planner:
+                    selectedFragment = new PlannerFragment();
+                    break;
+                case R.id.nav_exercises:
+                    selectedFragment = new ExercisesFragment();
+                    break;
+                case R.id.nav_setting:
+                    selectedFragment = new SettingFragment();
+                    break;
             }
-            return false;
+            getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container, selectedFragment).commit();
+            return true;
         }
     };
 }
