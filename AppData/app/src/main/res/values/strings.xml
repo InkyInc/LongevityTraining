@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">LongevityTraining</string>
+    <string name="nav_workout_title">WORKOUT</string>
+    <string name="nav_planner_title">PLANNER</string>
+    <string name="nav_exercises_title">EXERCISES</string>
+    <string name="nav_setting_title">SETTING</string>
 </resources>

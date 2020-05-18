@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_workout"
+        android:icon="@drawable/ic_workout_nav"
+        android:title="@string/nav_workout_title"/>
+
+    <item
+        android:id="@+id/nav_planner"
+        android:icon="@drawable/ic_planner_nav"
+        android:title="@string/nav_planner_title"/>
+
+    <item
+        android:id="@+id/nav_exercises"
+        android:icon="@drawable/ic_exercises_nav"
+        android:title="@string/nav_exercises_title"/>
+
+    <item
+        android:id="@+id/nav_setting"
+        android:icon="@drawable/ic_settings_nav"
+        android:title="@string/nav_setting_title"/>
+
+
+</menu>
