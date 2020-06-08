@@ -1,0 +1,91 @@
+PLANNER
+
+QUESTIONS
+
+	Body Target Type
+		Cut
+		Bulk
+		BodyBuilding
+		
+	Goal
+		Muscle Gain
+		Weight Loss
+		
+	Body Type
+		Skinny
+		Average
+		Heavier
+		
+	Fitness Level
+		Beginner
+		Intermediate
+		Advanced
+		
+	Height
+	
+	Weight
+	
+	Ideal Weight
+	
+	Age range
+		Ask year born
+		
+		Categories
+			13 - 19
+			20 - 29
+			30 - 39
+			40 - 49
+			etc...
+
+
+Experienced user
+	Do you already use a plan?
+		
+		Yes
+			Do you want to add current workout plan?
+				Yes
+					How many days in your cycle?
+						
+				No
+					Keep going with question
+					
+		No
+			Keep going with question
+
+
+
+Desired Plan
+	
+	Cross-Training (A bit of everything)
+	Powerlifting
+	BodyBuilding
+	CrossFit
+		- Improve conditioning, strength, flexibility, mobility
+	Recovery Training
+	Overall Health
+	
+For Beginner
+	
+	Full Body
+	Circuit Training 
+	Light Weight
+	Cardio
+	Flexibility
+	
+	Implement 2 days recovery
+		-> Add if sore option
+		
+		
+	Reason to start working out
+		
+		- Lose weight
+		- Improve health
+		- Add Structure to day
+		- Relieve stress
+		- Reach goals
+		- More energetic
+		- Boost self-esteem
+		- Restore self-esteem
+	
+	
+

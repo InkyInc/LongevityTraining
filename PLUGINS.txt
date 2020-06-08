@@ -1,0 +1,35 @@
+ActionBarSherlock
+	Make everything look the same across different devices
+		
+	actionbarsherlock.com
+	
+Dalvik Debug Monitor
+	To test app
+	
+	Do don't keep activities inside Developper Setting
+		To simulate worst possible possibility of phone condition
+		
+	Background process limit
+		Set to no background processes
+			Always kill app after closing app
+	
+	Process Killing
+		
+
+Tape API
+	Uploading stuff to server 
+	Make experience better for users
+	
+	square.github.com/tape/
+	
+Bus Architecture
+	Publisher and subscribers
+	
+	Otto
+		Easy to use
+		
+		square.github.com/otto/
+	
+Dagger
+	github.com/square/dagger
+	

@@ -1,0 +1,183 @@
+MUST/ SHOULD/ COULD
+
+	WORKOUT
+	
+		- Create Workout
+			- Workout duration
+			- Type
+			- Energy Level [Could]
+			- Goals of workout [Should]
+			- Rate workout
+				- As simple as possible
+				- Explain your answer [Could]
+	
+		- Timer
+		- Count sets
+	
+	PLANNER
+	
+		- Calendar
+		- History
+		- Workout Plan
+			- Mon Leg
+			- Wed Arm
+		- Goals (Long term)
+			- Multiple goals
+			- Main goa ls
+	
+	EXERCISES
+		
+		- Type
+		- Exercises
+		- Motion
+		- Target which area
+
+
+TYPE OF WORKOUTS
+	
+	Total Body
+	
+	Push-Pull
+		- Push: Chest, Shoulders, Triceps
+		- Pull: Back, Biceps, Traps
+		- Leg Day: Lower body
+		
+	Power Lifting 
+		- Large Movement
+			EX: BENCH, SQUATS
+			
+	Explosive Dynamic
+		- For athletes
+		
+	Muscular isolation
+		
+	Bodybuilding
+		- 8 - 12 reps
+		- Incorporates muscular isolation
+		- Muscle Larger > Stronger Muscle
+
+	Quick Circuit Training
+		- Light weight + A lot of reps
+		- Endurance + Strength + Lowers Fat
+		
+	Isometric Weights
+		- Stamina
+		- Ideal for rock climbers + gymnast
+		
+	High Volume Training
+		For Bodybuilders
+		
+		
+
+IDEAS
+
+
+	- Tell users info 3 times to make sure they understnad everything and they don't regret decision of closing helper too quickly
+	
+	- Workout journal
+		Amount of weight lifted (stronger or not)
+		
+	
+	- Workout cycle
+		Do specific workout for X amount of time then change
+			bulk < cut < repeat
+			
+	[Don't see progress going slow]
+		Increase weight, lower/ add reps
+		
+	- Body composition (Muscle vs fat)
+		Build muscle, body fat goes down
+		
+		- Use of electric conductivity testers to testers
+		- Don't always trust BMI
+			loss 1 pound = gained 1 pound of muscle
+			
+	- Test yourself every month
+		Go as heavy as you can
+		
+		- Add point system with this idea [Possibility]
+		
+	- Selfit tracking fitness
+	
+	- Tape measures
+	
+	- Need tracker to be easy and fast to users
+		No hassle needed and confussion
+		
+	- APP VERSATILE ***
+	
+		Make sure app can accomplish a change of program and that you don't need to find a new app or have to develop a whole new workout regiment if you want to edit or change your workout
+		
+		- Adaptable workout plan
+		
+	- Date Bodyweight
+		- March 23, 2020	180 lbs
+			
+	- Easy way to see previous lifted weights or even heaviest lifted **
+	
+	- Keep tracks of sets **		
+		- Mark work sets
+		- Rest intervals
+		- Reps
+		- Distance
+		- Intensity
+		
+	- Rest timer (on/off) you choose
+		Look into GymBox or Kettlebell Swing Timer
+	
+	- Welcome Screen
+		- Set unit system preference
+			(Imperial (LBS))
+			(Metric (KGS))
+			
+	- General navigation (maybe not best idea) [REVIEW: not quite sure what this means honestly]
+	
+	- Calendar
+		
+		- Add * on days that you got PR
+		- Legend showing which exercice worked out that days
+	
+	- Allow supersets
+		
+		Reps < supersets < megasets < cycles
+		
+		Easter egg if they want to add more superset until 99 superset
+			Display easter egg if they reach 99 supersets
+	
+	- In workout tab
+		Bottom of page
+			Can see chart to see proportion of body parts used during workout
+				[CHECK SCREENSHOT: workout.bottom.jpg]
+		Top of page
+			Floating elemtn on page doesn't move when scolled (Start button) 
+				[CHECK SCREENSHOT: workout.top.jpg]
+	
+	- Use of spreadsheet to workout
+		[CHECK SCREENSHOT: workout.spreadsheet.jpg]
+
+	- Add offline function for exercices
+	
+	- Add membership (ADD LATER)
+	
+	- Challenges for users
+	
+	- Food Guide
+	
+	- Scoring System can see how others are doing
+	
+	- Find only important info
+		Add function to everything but only they want to
+		
+	- Community
+		Implement as fast as possible to improve app
+			Research Yog, Endomondo, Yogify, Yogatailor
+			
+		- Leaderboards and badges
+	
+		- Research block modular smart watches
+	
+	- Add RPE value for exercises
+		RPE = another way to say intensity
+		
+	 
+	

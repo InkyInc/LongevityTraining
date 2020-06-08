@@ -1,0 +1,41 @@
+DATABASE
+
+USE ROOM ON ANDROID TO CONNECT DATABASE
+
+https://app.diagrams.net/#G19M-8S9KlcGDKP38Rl_dD3p1kRSeYk9Sz
+
+
+- Customer
+	Name (First name only)
+	Username (PK)
+	Age range
+	Level of fitness
+	
+- Workout
+	# of exercices
+	ID (PK)
+	Name
+	Notes (Personal Notes about workout)
+	Rating
+	Duration 
+	Intensity
+ 
+- Exercices
+	Exercice ID (PK)
+	Description
+	Type (Which area it targets)
+		Primary Muscle Group
+		Secondary Muscle Group
+		Stabalizers
+		
+	Name
+	Difficulty level (Make it easy to change from easy to harder exercices)
+	Picture/ GIF
+	Favorite (Category)
+	Nicknames 
+	Tips
+	
+	Equipment
+		Equipment_id
+		Name
+		 

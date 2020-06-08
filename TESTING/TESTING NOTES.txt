@@ -1,0 +1,24 @@
+Architecture layout
+
+Interaction between fragments and viewModel (layout)
+	
+	Use Databinding 
+		talk to layout
+	Live Data 
+		go back up the tree
+	
+	Need to use Room for each activity (not quite sure about this)
+	
+	
+	Use of coroutines
+		Use blocking constructs
+		
+	
+	
+	Check out Mockito
+	Check out Espresso
+	
+	
+	
+	Nitrogen
+		Unified Test Platform

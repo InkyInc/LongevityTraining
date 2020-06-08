@@ -1,0 +1,34 @@
+COMPANY
+
+NAME
+
+Visionary
+Experiental
+Evolving 
+Optimized Workout Experience
+
+LONGEVITY TRAINING
+
+FONTS
+
+HEADERS
+
+Arial Rounded MT
+OCR A
+Stencil
+
+
+
+
+BODY
+
+Cambria Math
+Palatino Linotype
+Candara
+Century Gothic
+Eras ITC
+Franklin Gothic Book
+Lato
+Maiandra GD
+Yu Gothic
+
